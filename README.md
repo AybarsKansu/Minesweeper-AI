@@ -1,4 +1,4 @@
-Minesweeper game
+# Minesweeper game
 
 There are 5 ways to play the game. One being manuel and 4 others are AI. I made AI cannot lose because of DFS algorithm.
 
